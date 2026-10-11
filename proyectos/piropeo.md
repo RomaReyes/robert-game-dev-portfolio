@@ -13,8 +13,8 @@ Piropeo es un arcade 2.5D donde la protagonista es una mujer que debe eliminar e
 
 ## 🎬 Gameplay
 
-![Gameplay 1](../../media/time-traveler/gameplay-01.gif)
-![Gameplay 2](../../media/time-traveler/gameplay-02.gif)
+![Gameplay 1](../media/time-traveler/gameplay-01.gif)
+![Gameplay 2](../media/time-traveler/gameplay-02.gif)
 
 ---
 
