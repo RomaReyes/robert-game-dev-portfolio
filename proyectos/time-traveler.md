@@ -20,10 +20,10 @@ Eres un viajero del tiempo que debe ubicar a un ladrón que robó un codex de lo
 
 ## 🧠 Mi contribución
 
-*(Escribe aquí exactamente qué hiciste tú en el equipo. Ejemplos:)*
+
 - Implementé el sistema de interacción con objetos temporales usando Blueprints.
 - Programé la lógica de objetivos y el sistema de progresión.
-- Colaboré en el diseño de niveles y balanceo.
+
 
 
 ## 📸 Capturas
