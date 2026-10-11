@@ -1,7 +1,7 @@
 # ⏳ Viajero del Tiempo
 
 > **Motor:** Unreal Engine 5 · **Año:** 2025 · **Tipo:** Proyecto grupal  
-> **Rol:** Gameplay Programmer · **Herramientas:** Blueprints, Niagara, Lumen
+> **Rol:** Gameplay Programmer · **Herramientas:** Blueprints, 
 
 ---
 
@@ -25,24 +25,11 @@ Eres un viajero del tiempo que debe ubicar a un ladrón que robó un codex de lo
 - Programé la lógica de objetivos y el sistema de progresión.
 - Colaboré en el diseño de niveles y balanceo.
 
----
-
-## 🔧 Highlights técnicos
-
-- **Sistema de interacción:** *(describe cómo funciona)*
-- **Efectos Niagara:** *(qué efectos creaste)*
-- **Optimización:** *(qué hiciste para mejorar el rendimiento)*
-
----
 
 ## 📸 Capturas
 
 ![Captura 1](../../media/time-traveler/screenshot-01.png)
 ![Captura 2](../../media/time-traveler/screenshot-02.png)
 
----
 
-## 🔗 Enlaces
 
-- [🎮 Jugar en itch.io](URL_A_ITCH)
-- [💻 Código fuente](URL_A_REPO) *(si es público)*
