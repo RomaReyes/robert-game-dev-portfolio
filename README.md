@@ -107,8 +107,8 @@ También creo **escenas isométricas en Blender**. Puedes ver mi trabajo aquí:
 ## 📫 Contacto
 
 - 🌐 Portafolio: [robert-portfolio-nu-ten.vercel.app](https://robert-portfolio-nu-ten.vercel.app/)
-- 📧 Email: **TU_EMAIL_AQUI** *(cámbialo por el tuyo)*
-- 💼 LinkedIn: **[TU_LINKEDIN]** *(cámbialo por el tuyo)*
+- 📧 Email: **robertjimenezreyes64@gmail.com** 
+- 💼 LinkedIn: ****
 
 ---
 
