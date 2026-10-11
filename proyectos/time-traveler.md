@@ -10,12 +10,6 @@
 Eres un viajero del tiempo que debe ubicar a un ladrón que robó un codex de los oficiales del tiempo, para así reestructurar las líneas temporales.
 
 
----
-
-## 🎬 Gameplay
-![Gameplay 1](../media/time-traveler/GameplayVD.gif)
-
----
 
 
 ## 🧠 Mi contribución
