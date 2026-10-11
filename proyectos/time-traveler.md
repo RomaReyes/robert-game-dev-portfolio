@@ -14,7 +14,7 @@ Eres un viajero del tiempo que debe ubicar a un ladrón que robó un codex de lo
 
 ## 🎬 Gameplay
 
-![Gameplay 1](../media/time-traveler/GameplayVD.mp4)
+![Gameplay 1](../media/time-traveler/GameplayVD.gif)
 
 ---
 
