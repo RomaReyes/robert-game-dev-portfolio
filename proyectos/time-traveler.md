@@ -28,7 +28,7 @@ Eres un viajero del tiempo que debe ubicar a un ladrón que robó un codex de lo
 
 ## 📸 Capturas
 
-![Captura 1](../../media/time-traveler/Captura1.png)
+![Captura 1](../media/time-traveler/Captura1.png)
 ![Captura 2](../../media/time-traveler/Captura2.png)
 
 
